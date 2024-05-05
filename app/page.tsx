@@ -100,7 +100,7 @@ export default function Home() {
     <section className="w-full min-h-screen flex justify-center items-center bg-slate-900">
       <main className=" py-6 px-9 max-sm:px-6 rounded-lg w-[90%] md:w-[40%] lg:w-[35%] bg-gray-800">
         <div className="flex justify-between items-center my-3">
-          <p className="font-large text-white">Current Weather</p>
+          <p className="font-large text-white">Current Weather </p>
           <small className="font-medium text-white py-1 px-2 rounded-md glass">
             {formattedTime()}
           </small>
